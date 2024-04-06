@@ -1,4 +1,4 @@
-name: Sync with Canvas Ruby v2.7
+zname: Sync with Canvas Ruby v2.7
 
 on:
   push:
